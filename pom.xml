@@ -73,8 +73,8 @@
                             </includes>
                         </configuration>
                     </execution>
-	     </executions>
-	     <forkMode>once</forkMode>
+	    </executions>
+	    <forkMode>once</forkMode>
             </plugin>
             <!-- CODE COVERAGE -->
             <plugin>
